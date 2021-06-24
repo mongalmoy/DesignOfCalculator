@@ -1,0 +1,28 @@
+button{
+    border-radius: 25px;
+    background-color: #c3d6cd;
+    font-size: 25px;
+    height: 60px;
+    width: 100px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2abeab;
+}
+input{
+    border: 3px solid #76b4af;
+    border-radius: 20px;
+    font-size: 33px;
+    margin-bottom: 10px;
+}
+table{
+    margin: auto;
+}
+.container{
+    text-align: center;
+}
+.Calculator{
+    display: inline-block;
+    background-color: #b1a089;
+    border-radius: 28px;
+}
